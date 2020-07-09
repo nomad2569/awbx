@@ -5,7 +5,6 @@ import Layout from "components/Layout"
 import Image from "components/Image"
 import SEO from "components/SEO"
 //styles
-import { Header } from "./Page.styles"
 
 const Page = ({ data }) => {
   const page = data.markdownRemark
@@ -15,7 +14,7 @@ const Page = ({ data }) => {
       <SEO title={page.frontmatter.title} />
       <Image fluid={page.frontmatter.image.childImageSharp.fluid} />
       <main>
-        <Header>{page.frontmatter.title}</Header>
+        <h2>{page.frontmatter.title}</h2>
         <div dangerouslySetInnerHTML={{ __html: page.html }} />
       </main>
     </Layout>
