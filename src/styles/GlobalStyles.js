@@ -1,7 +1,6 @@
 import { createGlobalStyle } from "styled-components"
 import MuliRegular from "fonts/Muli-Regular.woff"
 import MuliBlack from "fonts/Muli-Black.woff"
-import Typograpy from "./Typography"
 export const colors = {
   white: "white",
   darkGrey: "#1a1c20",
