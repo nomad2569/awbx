@@ -13,6 +13,7 @@ import {
   DateWrapper,
   ReadingTimeWrapper,
 } from "./BlogPostCard.styles"
+
 const BlogPostCard = ({ slug, title, date, readingTime, excerpt, image }) => (
   <CardWrapper>
     <ImgWrapper>
