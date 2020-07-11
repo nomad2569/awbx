@@ -1,12 +1,13 @@
 ---
-type: 'page'
-date: '2020-02-15'
-image: '../images/blog-image-1.jpg'
-slug: 'page-1'
-title: 'Usu velit populo disputando ei'
+type: "page"
+date: "2020-07-11"
+image: "../images/blog-image-1.jpg"
+slug: "page-1"
+title: "KUCS 19 김민규"
 ---
 
-Lorem ipsum dolor sit amet, ludus accommodare ut sea, eum reque oratio molestie id. Mea te modo inermis consectetuer, nonumy graecis est eu, ex vix placerat adipisci. Ferri dolore aperiri his te, eu sit dicit solet. Causae commodo mel ad, veri brute mel ut, cu vim aperiam virtute.
-
-###This is an H3 Header
-Vel ut denique explicari. Usu velit populo disputando ei. No cum iusto fierent. Tamquam feugiat te mel, rebum sententiae vix ut, erat graeci ea has. Cu has munere virtute epicuri, ius ea reque detraxit antiopam. At sed alterum interpretaris, vel nobis putent eleifend ea, deserunt lobortis at usu.
+- 고려대학교 컴퓨터학과 2학년 재학 중
+- 21살
+- [GitHub Link](http://github.com/nomad2569)
+- 초보 개발자
+- ML / Web
