@@ -1,7 +1,7 @@
 import React from "react"
 import { Link } from "gatsby"
 // Components
-import BGImage from "components/BGImage"
+import BGImage from "../BGImage"
 // Hooks
 import { useHeroQuery } from "hooks/useHeroQuery"
 // Styles
